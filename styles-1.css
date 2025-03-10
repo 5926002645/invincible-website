@@ -1,6 +1,10 @@
 body {
-    background-color: #48A0DC;
-    color: #FFD700;
+    background-color: #48A0DC !important; 
+    color: #FFD700; 
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
